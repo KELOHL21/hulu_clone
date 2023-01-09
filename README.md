@@ -31,6 +31,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-hulu-clone-gjfqb6kpe-kelohl21.vercel.app
+https://hulu-clone-gjfqb6kpe-kelohl21.vercel.app
 
-hulu-clone-chi-nine.vercel.app
+https://hulu-clone-chi-nine.vercel.app
